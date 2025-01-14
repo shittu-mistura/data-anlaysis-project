@@ -10,13 +10,14 @@
    - [Clothing](#Clothing)
    - [Electronics](#Electronics)
    - [Furniture](#Furniture)
--  [Recommendtion](#Recommendation)
+-  [Recommendation](#Recommendation)
 
 ### Project overview
 1.	Analyze sales data to identify trends and patterns.
 2.	Perform customer segmentation based on purchasing behavior.
 3.	Develop visualizations to communicate findings effectively.
 4.	Provide actionable insights for business growth and decision-making.
+
 ### Data sources
 The primary dataset used for this analysis are:
 - employees_england.csv
