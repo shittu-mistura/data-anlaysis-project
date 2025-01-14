@@ -20,6 +20,7 @@
 
 [project presentation.pptx](https://github.com/user-attachments/files/18410153/project.presentation.pptx)
 
+![snip of dashboard](https://github.com/user-attachments/assets/36666a82-4697-4076-8e2e-81cbe37cf574)
 
 
 
