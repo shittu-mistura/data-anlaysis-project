@@ -18,6 +18,10 @@
 3.	Develop visualizations to communicate findings effectively.
 4.	Provide actionable insights for business growth and decision-making.
 
+[project presentation.pptx](https://github.com/user-attachments/files/18410153/project.presentation.pptx)
+
+
+
 ### Data sources
 The primary dataset used for this analysis are:
 - employees_england.csv
